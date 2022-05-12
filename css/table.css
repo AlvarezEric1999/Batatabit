@@ -1,0 +1,37 @@
+
+
+
+.product--cards-container{
+    display: flex;
+    flex-wrap: wrap;
+    width: 830px;
+    margin: 0 auto;
+}
+
+
+.plans--container--slider{
+    justify-content: center;
+
+
+}
+
+
+footer{
+
+    display: flex;
+    justify-content: space-around;
+    height: 100px;
+    
+
+}
+
+.list--items  {
+    display: flex;
+    margin-top: 73px;
+    margin-right: 30px;
+        
+}
+
+.list--items p {
+    margin-left: 20px;
+}
